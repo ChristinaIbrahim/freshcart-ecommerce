@@ -1,7 +1,47 @@
 
-# 🛍️ eCommerce Angular SSR
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=220&section=header&text=Angular%20SSR%20eCommerce&fontSize=45&fontColor=ffffff" />
+</p>
 
-This is a production-ready **eCommerce frontend** built using **Angular 17** and **Server-Side Rendering (SSR)**. It includes complete authentication, routing, product handling, cart management, and server integration for scalable deployment.
+<h2 align="center">🛍️ Angular 17 SSR eCommerce Platform</h2>
+
+<p align="center">
+  🚀 Production Ready • Scalable • Clean Architecture
+</p>
+
+<p align="center">
+  <a href="#"><img src="https://img.shields.io/badge/Live-Demo-blue?style=for-the-badge&logo=vercel" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/GitHub-Repo-black?style=for-the-badge&logo=github" /></a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Angular-17-red?style=for-the-badge&logo=angular" />
+  <img src="https://img.shields.io/badge/SSR-Enabled-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/TailwindCSS-Styled-38B2AC?style=for-the-badge&logo=tailwindcss" />
+  <img src="https://img.shields.io/badge/Auth-JWT-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Status-Production--Ready-success?style=for-the-badge" />
+</p>
+
+---
+
+## 🧠 About The Project
+
+A **production-ready eCommerce frontend** built using **Angular 17 with Server-Side Rendering (SSR)**.
+
+✔️ Authentication  
+✔️ Product handling  
+✔️ Cart system  
+✔️ SSR optimization  
+
+---
+
+## 🖼️ Screenshots
+
+<p align="center">
+  <img src="https://via.placeholder.com/800x400?text=Home+Page" width="80%" />
+  <img src="https://via.placeholder.com/800x400?text=Product+Page" width="80%" />
+  <img src="https://via.placeholder.com/800x400?text=Cart+Page" width="80%" />
+</p>
 
 ---
 
