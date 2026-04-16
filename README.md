@@ -10,16 +10,8 @@
 </p>
 
 <p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/Live-Demo-blue?style=for-the-badge&logo=vercel" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/GitHub-Repo-black?style=for-the-badge&logo=github" /></a>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Angular-17-red?style=for-the-badge&logo=angular" />
-  <img src="https://img.shields.io/badge/SSR-Enabled-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/TailwindCSS-Styled-38B2AC?style=for-the-badge&logo=tailwindcss" />
-  <img src="https://img.shields.io/badge/Auth-JWT-green?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Status-Production--Ready-success?style=for-the-badge" />
+  <a href="https://freshcarteco.netlify.app/home"><img src="https://img.shields.io/badge/Live-Demo-blue?style=for-the-badge&logo=vercel" /></a>
+  <a href="https://github.com/ChristinaIbrahim/freshcart-ecommerce"><img src="https://img.shields.io/badge/GitHub-Repo-black?style=for-the-badge&logo=github" /></a>
 </p>
 
 ---
@@ -179,8 +171,8 @@ src/app/base/Environment.ts
 
 ## 👤 Author
 
-Developed by [Muhammed Al-Ateeqi](https://github.com/muhammed-alateeqi1)  
-📧 Email: mu.alateeqi@gmail.com
+Developed by [ChristinaIbrahim](https://github.com/ChristinaIbrahim)  
+📧 Email: christina.i.aziz7@gmail.com
 
 ---
 
