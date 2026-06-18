@@ -25,15 +25,6 @@ A **production-ready eCommerce frontend** built using **Angular 17 with Server-S
 ✔️ Cart system  
 ✔️ SSR optimization  
 
----
-
-## 🖼️ Screenshots
-
-<p align="center">
-  <img src="https://via.placeholder.com/800x400?text=Home+Page" width="80%" />
-  <img src="https://via.placeholder.com/800x400?text=Product+Page" width="80%" />
-  <img src="https://via.placeholder.com/800x400?text=Cart+Page" width="80%" />
-</p>
 
 ---
 
